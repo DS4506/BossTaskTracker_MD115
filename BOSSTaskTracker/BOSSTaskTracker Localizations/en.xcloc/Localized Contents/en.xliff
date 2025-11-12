@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+       version="1.2">
+
+  <file original="BOSSTaskTracker/Localizable.xcstrings"
+        source-language="en"
+        target-language="en"
+        datatype="plaintext">
+
+    <body>
+
+      <trans-unit id="%lld"><source>%lld</source><target>%lld</target></trans-unit>
+
+      <trans-unit id="a11y_add_group"><source>a11y_add_group</source><target>Add group</target></trans-unit>
+      <trans-unit id="add_task_button"><source>Add</source><target>Add</target></trans-unit>
+      <trans-unit id="app_title"><source>app_title</source><target>BOSS Task Tracker</target></trans-unit>
+
+      <trans-unit id="demo_group_personal"><source>demo_group_personal</source><target>Personal</target></trans-unit>
+      <trans-unit id="demo_group_work"><source>demo_group_work</source><target>Work</target></trans-unit>
+      <trans-unit id="demo_task_buy_groceries"><source>demo_task_buy_groceries</source><target>Buy groceries</target></trans-unit>
+      <trans-unit id="demo_task_call_mom"><source>demo_task_call_mom</source><target>Call mom</target></trans-unit>
+      <trans-unit id="demo_task_read"><source>demo_task_read</source><target>Read 20 pages</target></trans-unit>
+      <trans-unit id="demo_task_review_prs"><source>demo_task_review_prs</source><target>Review PRs</target></trans-unit>
+      <trans-unit id="demo_task_standup"><source>demo_task_standup</source><target>Daily standup</target></trans-unit>
+
+      <trans-unit id="get_started"><source>get_started</source><target>Get Started</target></trans-unit>
+
+      <trans-unit id="groups_header"><source>groups_header</source><target>Groups</target></trans-unit>
+      <trans-unit id="language_picker_accessibility_label"><source>language_picker_accessibility_label</source><target>Choose language</target></trans-unit>
+      <trans-unit id="language_switcher_title"><source>language_switcher_title</source><target>Language</target></trans-unit>
+
+      <trans-unit id="manage_groups_title"><source>manage_groups_title</source><target>Manage Groups</target></trans-unit>
+      <trans-unit id="nav_manage_groups"><source>nav_manage_groups</source><target>Manage Groups</target></trans-unit>
+      <trans-unit id="nav_profile"><source>nav_profile</source><target>Profile</target></trans-unit>
+
+      <trans-unit id="new_group_default_name"><source>new_group_default_name</source><target>New Group</target></trans-unit>
+
+      <trans-unit id="placeholder_new_task"><source>placeholder_new_task</source><target>New task title</target></trans-unit>
+
+      <trans-unit id="profile_footer_note"><source>profile_footer_note</source><target>All text on this screen is localized using the String Catalog.</target></trans-unit>
+      <trans-unit id="profile_header"><source>profile_header</source><target>Account</target></trans-unit>
+      <trans-unit id="profile_label_role"><source>profile_label_role</source><target>Role</target></trans-unit>
+      <trans-unit id="profile_label_username"><source>profile_label_username</source><target>Username</target></trans-unit>
+      <trans-unit id="profile_title"><source>profile_title</source><target>Profile</target></trans-unit>
+
+      <trans-unit id="profile_value_role_example"><source>profile_value_role_example</source><target>Student</target></trans-unit>
+      <trans-unit id="profile_value_username_example"><source>profile_value_username_example</source><target>demo_user</target></trans-unit>
+
+      <trans-unit id="tasks_header"><source>tasks_header</source><target>Tasks</target></trans-unit>
+      <trans-unit id="today_is"><source>today_is</source><target>Today is</target></trans-unit>
+
+      <trans-unit id="welcome_message"><source>welcome_message</source><target>This app demonstrates localization and internationalization with SwiftUI.</target></trans-unit>
+      <trans-unit id="welcome_title"><source>welcome_title</source><target>Welcome</target></trans-unit>
+
+      <!-- Settings -->
+      <trans-unit id="settings_title"><source>settings_title</source><target>Settings</target></trans-unit>
+      <trans-unit id="settings_language_section_title"><source>settings_language_section_title</source><target>Language</target></trans-unit>
+      <trans-unit id="settings_reset_section_title"><source>settings_reset_section_title</source><target>Reset</target></trans-unit>
+      <trans-unit id="settings_reset_description"><source>settings_reset_description</source><target>Tap below to reset the app language back to English.</target></trans-unit>
+      <trans-unit id="settings_reset_button"><source>settings_reset_button</source><target>Reset to English</target></trans-unit>
+
+    </body>
+  </file>
+
+</xliff>

@@ -10,18 +10,6 @@
             "state" : "new",
             "value" : "BOSSTaskTracker"
           }
-        },
-        "fr-CA" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "SuiviDesTâchesBOSS"
-          }
-        },
-        "zh-HK" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "BOSS任務追蹤器"
-          }
         }
       }
     }

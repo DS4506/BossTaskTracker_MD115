@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+       version="1.2">
+
+  <file original="BOSSTaskTracker/Localizable.xcstrings"
+        source-language="en"
+        target-language="fr-CA"
+        datatype="plaintext">
+
+    <body>
+
+      <trans-unit id="%lld"><source>%lld</source><target>%lld</target></trans-unit>
+
+      <trans-unit id="a11y_add_group"><source>a11y_add_group</source><target>Ajouter un groupe</target></trans-unit>
+      <trans-unit id="add_task_button"><source>add_task_button</source><target>Ajouter</target></trans-unit>
+      <trans-unit id="app_title"><source>app_title</source><target>Suivi des tâches BOSS</target></trans-unit>
+
+      <trans-unit id="demo_group_personal"><source>demo_group_personal</source><target>Personnel</target></trans-unit>
+      <trans-unit id="demo_group_work"><source>demo_group_work</source><target>Travail</target></trans-unit>
+
+      <trans-unit id="demo_task_buy_groceries"><source>demo_task_buy_groceries</source><target>Faire l’épicerie</target></trans-unit>
+      <trans-unit id="demo_task_call_mom"><source>demo_task_call_mom</source><target>Appeler maman</target></trans-unit>
+      <trans-unit id="demo_task_read"><source>demo_task_read</source><target>Lire 20 pages</target></trans-unit>
+      <trans-unit id="demo_task_review_prs"><source>demo_task_review_prs</source><target>Relire les PR</target></trans-unit>
+      <trans-unit id="demo_task_standup"><source>demo_task_standup</source><target>Point quotidien</target></trans-unit>
+
+      <trans-unit id="get_started"><source>get_started</source><target>Commencer</target></trans-unit>
+
+      <trans-unit id="groups_header"><source>groups_header</source><target>Groupes</target></trans-unit>
+      <trans-unit id="language_picker_accessibility_label"><source>language_picker_accessibility_label</source><target>Choisir la langue</target></trans-unit>
+      <trans-unit id="language_switcher_title"><source>language_switcher_title</source><target>Langue</target></trans-unit>
+
+      <trans-unit id="manage_groups_title"><source>manage_groups_title</source><target>Gérer les groupes</target></trans-unit>
+      <trans-unit id="nav_manage_groups"><source>nav_manage_groups</source><target>Gérer les groupes</target></trans-unit>
+
+      <trans-unit id="nav_profile"><source>nav_profile</source><target>Profil</target></trans-unit>
+
+      <trans-unit id="new_group_default_name"><source>new_group_default_name</source><target>Nouveau groupe</target></trans-unit>
+
+      <trans-unit id="placeholder_new_task"><source>placeholder_new_task</source><target>Titre de la nouvelle tâche</target></trans-unit>
+
+      <trans-unit id="profile_footer_note"><source>profile_footer_note</source><target>Tout le texte de cet écran est localisé à l’aide du catalogue de chaînes.</target></trans-unit>
+
+      <trans-unit id="profile_header"><source>profile_header</source><target>Compte</target></trans-unit>
+      <trans-unit id="profile_label_role"><source>profile_label_role</source><target>Rôle</target></trans-unit>
+      <trans-unit id="profile_label_username"><source>profile_label_username</source><target>Nom d’utilisateur</target></trans-unit>
+
+      <trans-unit id="profile_title"><source>profile_title</source><target>Profil</target></trans-unit>
+      <trans-unit id="profile_value_role_example"><source>profile_value_role_example</source><target>Étudiant</target></trans-unit>
+      <trans-unit id="profile_value_username_example"><source>profile_value_username_example</source><target>utilisateur_demo</target></trans-unit>
+
+      <trans-unit id="tasks_header"><source>tasks_header</source><target>Tâches</target></trans-unit>
+      <trans-unit id="today_is"><source>today_is</source><target>Nous sommes le</target></trans-unit>
+
+      <trans-unit id="welcome_message"><source>welcome_message</source><target>Cette application démontre la localisation et l’internationalisation avec SwiftUI.</target></trans-unit>
+      <trans-unit id="welcome_title"><source>welcome_title</source><target>Bienvenue</target></trans-unit>
+
+      <!-- Settings -->
+      <trans-unit id="settings_title"><source>settings_title</source><target>Paramètres</target></trans-unit>
+      <trans-unit id="settings_language_section_title"><source>settings_language_section_title</source><target>Langue</target></trans-unit>
+      <trans-unit id="settings_reset_section_title"><source>settings_reset_section_title</source><target>Réinitialisation</target></trans-unit>
+      <trans-unit id="settings_reset_description"><source>settings_reset_description</source><target>Appuyez ci-dessous pour rétablir l’anglais comme langue de l’application.</target></trans-unit>
+      <trans-unit id="settings_reset_button"><source>settings_reset_button</source><target>Réinitialiser en anglais</target></trans-unit>
+
+    </body>
+  </file>
+
+</xliff>

@@ -10,9 +10,24 @@
 		4796BA3E2EC2E4B600BAD8D3 /* BOSSTaskTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BOSSTaskTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		4767001F2EC469C700259287 /* Exceptions for "BOSSTaskTracker" folder in "BOSSTaskTracker" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"BOSSTaskTracker Localizations/BOSSTaskTracker Localizations/en.xcloc",
+				"BOSSTaskTracker Localizations/BOSSTaskTracker Localizations/fr-CA.xcloc",
+				"BOSSTaskTracker Localizations/BOSSTaskTracker Localizations/zh-HK.xcloc",
+			);
+			target = 4796BA3D2EC2E4B600BAD8D3 /* BOSSTaskTracker */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		4796BA402EC2E4B600BAD8D3 /* BOSSTaskTracker */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				4767001F2EC469C700259287 /* Exceptions for "BOSSTaskTracker" folder in "BOSSTaskTracker" target */,
+			);
 			path = BOSSTaskTracker;
 			sourceTree = "<group>";
 		};
