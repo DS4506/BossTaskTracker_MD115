@@ -1,0 +1,62 @@
+{
+  "images" : [
+    {
+      "filename" : "PersonalCover 1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "SchoolCover 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "WorkCover.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "PersonalCover.png",
+      "idiom" : "universal",
+      "locale" : "zh-HK",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "SchoolCover.png",
+      "idiom" : "universal",
+      "locale" : "zh-HK",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "WorkCover 1.png",
+      "idiom" : "universal",
+      "locale" : "zh-HK",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "PersonalCover 2.png",
+      "idiom" : "universal",
+      "locale" : "fr-CA",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "SchoolCover 2.png",
+      "idiom" : "universal",
+      "locale" : "fr-CA",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "WorkCover 2.png",
+      "idiom" : "universal",
+      "locale" : "fr-CA",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}
