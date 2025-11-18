@@ -1,177 +1,251 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
-  <file original="BOSSTaskTracker/BOSSTaskTracker-InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       version="1.2"
+       xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+
+  <file original="BOSSTaskTracker/BOSSTaskTracker-InfoPlist.xcstrings"
+        source-language="en"
+        target-language="en"
+        datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>BOSSTaskTracker</source>
-        <target state="new">BOSSTaskTracker</target>
+        <target state="translated">BOSS Task Tracker</target>
         <note>Bundle name</note>
       </trans-unit>
     </body>
   </file>
-  <file original="BOSSTaskTracker/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+
+  <file original="BOSSTaskTracker/Localizable.xcstrings"
+        source-language="en"
+        target-language="en"
+        datatype="plaintext">
     <header>
       <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0.1" build-num="17A400"/>
     </header>
     <body>
+
       <trans-unit id="%lld" xml:space="preserve">
         <source>%lld</source>
-        <target state="new">%lld</target>
-        <note from="auto-generated">A label showing the number of tasks in a task group. The argument is the number of tasks in the group.</note>
+        <target state="translated">%lld</target>
       </trans-unit>
+
       <trans-unit id="a11y_add_group" xml:space="preserve">
         <source>a11y_add_group</source>
-        <target state="new">a11y_add_group</target>
-        <note from="auto-generated">An accessibility label for the button that adds a new task group.</note>
+        <target state="translated">Add group</target>
       </trans-unit>
+
       <trans-unit id="add_task_button" xml:space="preserve">
         <source>add_task_button</source>
-        <target state="new">add_task_button</target>
-        <note from="auto-generated">A button label that says "Add Task".</note>
+        <target state="translated">Add</target>
       </trans-unit>
+
       <trans-unit id="app_title" xml:space="preserve">
         <source>app_title</source>
-        <target state="new">app_title</target>
-        <note from="auto-generated">The title of your app.</note>
+        <target state="translated">BOSS Task Tracker</target>
       </trans-unit>
+
       <trans-unit id="demo_group_personal" xml:space="preserve">
         <source>demo_group_personal</source>
-        <target state="new">demo_group_personal</target>
-        <note>Personal group</note>
+        <target state="translated">Personal</target>
       </trans-unit>
+
       <trans-unit id="demo_group_work" xml:space="preserve">
         <source>demo_group_work</source>
-        <target state="new">demo_group_work</target>
-        <note>Work group</note>
+        <target state="translated">Work</target>
       </trans-unit>
+
       <trans-unit id="demo_task_buy_groceries" xml:space="preserve">
         <source>demo_task_buy_groceries</source>
-        <target state="new">demo_task_buy_groceries</target>
-        <note from="auto-generated">A task title.</note>
+        <target state="translated">Buy groceries</target>
       </trans-unit>
+
       <trans-unit id="demo_task_call_mom" xml:space="preserve">
         <source>demo_task_call_mom</source>
-        <target state="new">demo_task_call_mom</target>
-        <note from="auto-generated">Title of a task in the "demo_group_personal" task group.</note>
+        <target state="translated">Call mom</target>
       </trans-unit>
+
       <trans-unit id="demo_task_read" xml:space="preserve">
         <source>demo_task_read</source>
-        <target state="new">demo_task_read</target>
-        <note from="auto-generated">A task title.</note>
+        <target state="translated">Read 20 pages</target>
       </trans-unit>
+
       <trans-unit id="demo_task_review_prs" xml:space="preserve">
         <source>demo_task_review_prs</source>
-        <target state="new">demo_task_review_prs</target>
-        <note from="auto-generated">A task title in the "Work group" task list.</note>
+        <target state="translated">Review PRs</target>
       </trans-unit>
+
       <trans-unit id="demo_task_standup" xml:space="preserve">
         <source>demo_task_standup</source>
-        <target state="new">demo_task_standup</target>
-        <note from="auto-generated">A task title for a work task group.</note>
+        <target state="translated">Daily standup</target>
       </trans-unit>
+
       <trans-unit id="get_started" xml:space="preserve">
         <source>get_started</source>
-        <target state="new">get_started</target>
-        <note from="auto-generated">A button label that says "Get Started".</note>
+        <target state="translated">Get Started</target>
       </trans-unit>
+
       <trans-unit id="groups_header" xml:space="preserve">
         <source>groups_header</source>
-        <target state="new">groups_header</target>
-        <note from="auto-generated">The header text for the list of task groups in the "Manage Groups" view.</note>
+        <target state="translated">Groups</target>
       </trans-unit>
+
       <trans-unit id="language_picker_accessibility_label" xml:space="preserve">
         <source>language_picker_accessibility_label</source>
-        <target state="new">language_picker_accessibility_label</target>
-        <note from="auto-generated">The accessibility label for the language picker in the ContentView.swift view.</note>
+        <target state="translated">Choose language</target>
       </trans-unit>
+
       <trans-unit id="language_switcher_title" xml:space="preserve">
         <source>language_switcher_title</source>
-        <target state="new">language_switcher_title</target>
-        <note from="auto-generated">A label for the section that lets users switch languages.</note>
+        <target state="translated">Language</target>
       </trans-unit>
+
       <trans-unit id="manage_groups_title" xml:space="preserve">
         <source>manage_groups_title</source>
-        <target state="new">manage_groups_title</target>
-        <note from="auto-generated">The title of the "Manage Groups" screen.</note>
+        <target state="translated">Manage Groups</target>
       </trans-unit>
+
       <trans-unit id="nav_manage_groups" xml:space="preserve">
         <source>nav_manage_groups</source>
-        <target state="new">nav_manage_groups</target>
-        <note from="auto-generated">A navigation link label that translates to "Manage Groups" in different languages.</note>
+        <target state="translated">Manage Groups</target>
       </trans-unit>
+
       <trans-unit id="nav_profile" xml:space="preserve">
         <source>nav_profile</source>
-        <target state="new">nav_profile</target>
-        <note from="auto-generated">A navigation link label that translates to "Profile" in different languages.</note>
+        <target state="translated">Profile</target>
       </trans-unit>
+
       <trans-unit id="new_group_default_name" xml:space="preserve">
         <source>new_group_default_name</source>
-        <target state="new">new_group_default_name</target>
-        <note from="auto-generated">Default name for a new task group.</note>
+        <target state="translated">New Group</target>
       </trans-unit>
+
       <trans-unit id="placeholder_new_task" xml:space="preserve">
         <source>placeholder_new_task</source>
-        <target state="new">placeholder_new_task</target>
-        <note from="auto-generated">A placeholder text for a text field where the user can enter a new task title.</note>
+        <target state="translated">New task title</target>
       </trans-unit>
+
       <trans-unit id="profile_footer_note" xml:space="preserve">
         <source>profile_footer_note</source>
-        <target state="new">profile_footer_note</target>
-        <note from="auto-generated">A note displayed below the user's profile information.</note>
+        <target state="translated">All text on this screen is localized using the String Catalog.</target>
       </trans-unit>
+
       <trans-unit id="profile_header" xml:space="preserve">
         <source>profile_header</source>
-        <target state="new">profile_header</target>
-        <note from="auto-generated">The header text for the profile view.</note>
+        <target state="translated">Account</target>
       </trans-unit>
+
       <trans-unit id="profile_label_role" xml:space="preserve">
         <source>profile_label_role</source>
-        <target state="new">profile_label_role</target>
-        <note from="auto-generated">A label for the user's role in the app.</note>
+        <target state="translated">Role</target>
       </trans-unit>
+
       <trans-unit id="profile_label_username" xml:space="preserve">
         <source>profile_label_username</source>
-        <target state="new">profile_label_username</target>
-        <note from="auto-generated">A label for the username field in the profile view.</note>
+        <target state="translated">Username</target>
       </trans-unit>
+
       <trans-unit id="profile_title" xml:space="preserve">
         <source>profile_title</source>
-        <target state="new">profile_title</target>
-        <note from="auto-generated">The title of the profile view.</note>
+        <target state="translated">Profile</target>
       </trans-unit>
+
       <trans-unit id="profile_value_role_example" xml:space="preserve">
         <source>profile_value_role_example</source>
-        <target state="new">profile_value_role_example</target>
-        <note from="auto-generated">An example value for the "Role" label in the profile view.</note>
+        <target state="translated">Student</target>
       </trans-unit>
+
       <trans-unit id="profile_value_username_example" xml:space="preserve">
         <source>profile_value_username_example</source>
-        <target state="new">profile_value_username_example</target>
-        <note from="auto-generated">An example value for the username field in the profile view.</note>
+        <target state="translated">demo_user</target>
       </trans-unit>
+
       <trans-unit id="tasks_header" xml:space="preserve">
         <source>tasks_header</source>
-        <target state="new">tasks_header</target>
-        <note from="auto-generated">The header text for the list of tasks in a task group detail view.</note>
+        <target state="translated">Tasks</target>
       </trans-unit>
+
       <trans-unit id="today_is" xml:space="preserve">
         <source>today_is</source>
-        <target state="new">today_is</target>
-        <note from="auto-generated">A label describing what "today is" means in the app.</note>
+        <target state="translated">Today is</target>
       </trans-unit>
+
       <trans-unit id="welcome_message" xml:space="preserve">
         <source>welcome_message</source>
-        <target state="new">welcome_message</target>
-        <note from="auto-generated">A welcome message displayed on the home screen.</note>
+        <target state="translated">This app demonstrates localization and internationalization with SwiftUI.</target>
       </trans-unit>
+
       <trans-unit id="welcome_title" xml:space="preserve">
         <source>welcome_title</source>
-        <target state="new">welcome_title</target>
-        <note from="auto-generated">The title of the welcome screen.</note>
+        <target state="translated">Welcome</target>
       </trans-unit>
+
+      <!-- Settings -->
+      <trans-unit id="settings_title" xml:space="preserve">
+        <source>settings_title</source>
+        <target state="translated">Settings</target>
+      </trans-unit>
+
+      <trans-unit id="settings_language_section_title" xml:space="preserve">
+        <source>settings_language_section_title</source>
+        <target state="translated">Language</target>
+      </trans-unit>
+
+      <trans-unit id="settings_reset_section_title" xml:space="preserve">
+        <source>settings_reset_section_title</source>
+        <target state="translated">Reset</target>
+      </trans-unit>
+
+      <trans-unit id="settings_reset_description" xml:space="preserve">
+        <source>settings_reset_description</source>
+        <target state="translated">Tap below to reset the app language back to English.</target>
+      </trans-unit>
+
+      <trans-unit id="settings_reset_button" xml:space="preserve">
+        <source>settings_reset_button</source>
+        <target state="translated">Reset to English</target>
+      </trans-unit>
+
+      <!-- Extra localized strings for assignment -->
+      <trans-unit id="localized_image_section_title" xml:space="preserve">
+        <source>localized_image_section_title</source>
+        <target state="translated">Localized images</target>
+      </trans-unit>
+
+      <trans-unit id="localized_image_caption" xml:space="preserve">
+        <source>localized_image_caption</source>
+        <target state="translated">The background image changes with the selected language.</target>
+      </trans-unit>
+
+      <trans-unit id="locale_section_title" xml:space="preserve">
+        <source>locale_section_title</source>
+        <target state="translated">Locale examples</target>
+      </trans-unit>
+
+      <trans-unit id="locale_time_label" xml:space="preserve">
+        <source>locale_time_label</source>
+        <target state="translated">Current time</target>
+      </trans-unit>
+
+      <trans-unit id="locale_number_label" xml:space="preserve">
+        <source>locale_number_label</source>
+        <target state="translated">Sample amount</target>
+      </trans-unit>
+
+      <trans-unit id="cta_description" xml:space="preserve">
+        <source>cta_description</source>
+        <target state="translated">Use the controls above to see how this app adapts text, images, dates, times, and numbers for different languages and regions.</target>
+      </trans-unit>
+
+      <trans-unit id="cta_primary_button" xml:space="preserve">
+        <source>cta_primary_button</source>
+        <target state="translated">Review my tasks</target>
+      </trans-unit>
+
     </body>
   </file>
 </xliff>

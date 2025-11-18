@@ -3,12 +3,11 @@
   "strings" : {
     "CFBundleName" : {
       "comment" : "Bundle name",
-      "extractionState" : "extracted_with_value",
       "localizations" : {
         "en" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "BOSSTaskTracker"
+            "state" : "translated",
+            "value" : "BOSS Task Tracker"
           }
         },
         "fr-CA" : {

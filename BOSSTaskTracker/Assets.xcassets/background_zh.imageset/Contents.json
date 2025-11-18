@@ -1,0 +1,40 @@
+{
+  "images" : [
+    {
+      "filename" : "background_zh.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "background_zh 1.jpeg",
+      "idiom" : "universal",
+      "locale" : "zh-HK",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "zh-HK",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "locale" : "zh-HK",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true
+  }
+}

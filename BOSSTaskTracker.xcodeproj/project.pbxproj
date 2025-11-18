@@ -16,7 +16,6 @@
 			membershipExceptions = (
 				"BOSSTaskTracker Localizations/BOSSTaskTracker Localizations/en.xcloc",
 				"BOSSTaskTracker Localizations/BOSSTaskTracker Localizations/fr-CA.xcloc",
-				"BOSSTaskTracker Localizations/BOSSTaskTracker Localizations/zh-HK.xcloc",
 			);
 			target = 4796BA3D2EC2E4B600BAD8D3 /* BOSSTaskTracker */;
 		};
