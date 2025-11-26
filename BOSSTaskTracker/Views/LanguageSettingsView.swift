@@ -4,9 +4,10 @@ struct LanguageSettingsView: View {
     @AppStorage("appLanguage") private var appLanguage: String = "en"
 
     private let languages: [LanguageOption] = [
-        .init(code: "en",    label: "English",           flag: "🇺🇸"),
-        .init(code: "fr-CA", label: "Français (Canada)", flag: "🇨🇦"),
-        .init(code: "zh-HK", label: "中文（香港）",         flag: "🇭🇰")
+        .init(code: "en",    label: "English",            flag: "🇺🇸"),
+        .init(code: "fr-CA", label: "Français (Canada)",  flag: "🇨🇦"),
+        .init(code: "zh-HK", label: "中文（香港）",          flag: "🇭🇰"),
+        .init(code: "ar",    label: "العربية",            flag: "🇸🇦")
     ]
 
     var body: some View {
